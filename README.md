@@ -124,7 +124,7 @@ clean:
 
 ```
 ├── Client
-│   └── w25clients.c
+│   └── client.c
 ├── Server
 │   ├── S1.c
 │   ├── S2.c
